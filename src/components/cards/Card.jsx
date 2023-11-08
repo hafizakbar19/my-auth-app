@@ -24,7 +24,7 @@ function Card() {
 
   return (
     <div>
-      <h1 className=" text-center text-3xl font-bold py-5">Top Product</h1>
+      <h1 className=" text-center text-3xl font-bold py-5">Top products on the Test app</h1>
       {loading ? (
         <div className="flex justify-center ">
           <img

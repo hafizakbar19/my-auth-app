@@ -29,7 +29,10 @@ function Login() {
       <div className=" bg-gray-800 px-10 py-10 rounded-xl ">
         <div className="">
           <h1 className="text-center text-white text-xl mb-4 font-bold">
-            Login
+          Welcome to Test Shopping App
+          <br/>
+          <br/>
+           <span className="text-yellow">Login</span>
           </h1>
         </div>
         <div>
