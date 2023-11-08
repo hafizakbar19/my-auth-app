@@ -103,7 +103,7 @@ function Card() {
                   </div>
                   <div className=" flex  space-x-2 justify-between">
                     <button className="bg-[#444444] px-5 py-1.5 text-white rounded-lg">
-                      Add to card
+                      Add to cart
                     </button>
                     <button className="bg-[#4c050b] px-5 py-1.5 text-white rounded-lg">
                       Buy Now
